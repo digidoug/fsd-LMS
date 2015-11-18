@@ -592,6 +592,9 @@
     "mma.mod_survey.results": "Risultati",
     "mma.mod_url.accessurl": "Accedi all'URL",
     "mma.mod_url.pointingtourl": "URL dove punta la risorsa",
+    "mma.notifications.errorgetnotifications": "Si è verificato un errore durante la ricezione delle notifiche.",
+    "mma.notifications.notifications": "Notifiche",
+    "mma.notifications.therearentnotificationsyet": "Non ci sono notifiche",
     "mma.notes.addnewnote": "Aggiungi annotazione",
     "mma.notes.coursenotes": "Annotazioni del corso",
     "mma.notes.eventnotecreated": "Creata annotazione",
@@ -601,8 +604,5 @@
     "mma.notes.personalnotes": "Annotazioni personali",
     "mma.notes.publishstate": "Contesto",
     "mma.notes.sitenotes": "Annotazioni del sito",
-    "mma.notifications.errorgetnotifications": "Si è verificato un errore durante la ricezione delle notifiche.",
-    "mma.notifications.notifications": "Notifiche",
-    "mma.notifications.therearentnotificationsyet": "Non ci sono notifiche",
     "mma.participants.participants": "Partecipanti"
 }

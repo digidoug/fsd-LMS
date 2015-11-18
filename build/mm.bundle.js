@@ -2227,7 +2227,7 @@ angular.module('mm.core')
 }]);
 
 angular.module('mm.core')
-.constant('mmCoreLogEnabledDefault', true)
+.constant('mmCoreLogEnabledDefault', false)
 .constant('mmCoreLogEnabledConfigName', 'debug_enabled')
 .provider('$mmLog', ["mmCoreLogEnabledDefault", function(mmCoreLogEnabledDefault) {
     var isEnabled = mmCoreLogEnabledDefault,
@@ -4812,7 +4812,7 @@ angular.module('mm.core.login', [])
         templateUrl: 'core/components/login/templates/credentials.html',
         controller: 'mmLoginCredentialsCtrl',
         params: {
-            siteurl: ''
+            siteurl: 'https://moodle.fsd38.ab.ca/LMS'
         },
         onEnter: ["$state", "$stateParams", function($state, $stateParams) {
             if (!$stateParams.siteurl) {

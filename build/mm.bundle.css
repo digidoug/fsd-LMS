@@ -7954,9 +7954,6 @@ img.mm-media-adapt-width {
   /* show the checkmark icon when its checked */
   visibility: visible; }
 
-#mm-settings-languagelabel {
-  color: #000; }
-
 .bar-side-menu {
   border-color: transparent;
   background-color: #f70;
@@ -7975,6 +7972,9 @@ img.mm-media-adapt-width {
 
 .has-side-menu-header {
   top: 80px; }
+
+#mm-settings-languagelabel {
+  color: #000; }
 
 input.mma-files-picker {
   position: absolute;

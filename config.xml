@@ -39,7 +39,7 @@
     <preference name="fullscreen"       value="false" />
     <preference name="stay-in-webview"  value="false" />
     <preference name="webviewbounce"    value="false" />
-    <preference name="prerendered-icon" value="false" />
+    <preference name="prerendered-icon" value="true" />
     <preference name="load-url-timeout" value="60000" />
 
     <preference name="android-minSdkVersion" value="14" />

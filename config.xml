@@ -2,7 +2,7 @@
 <widget xmlns     = "http://www.w3.org/ns/widgets"
         xmlns:gap = "http://phonegap.com/ns/1.0"
         xmlns:android = "http://schemas.android.com/apk/res/android"
-        id        = "com.moodle.moodlemobile"
+        id        = "com.fsd38.fsdmoodlemobile"
         versionCode = "2006"
         version   = "2.5">
     <name>Moodle Mobile</name>
@@ -11,7 +11,7 @@
         Moodle Mobile official app
     </description>
 
-    <author href="http://moodle.com" email="mobile@moodle.com">
+    <author href="http://www.fsd38.ab.ca" email="stevensd@fsd38.ab.ca">
         Moodle Pty Ltd
     </author>
 

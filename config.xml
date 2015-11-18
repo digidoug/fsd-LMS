@@ -14,7 +14,7 @@
     <author href="http://www.fsd38.ab.ca" email="stevensd@fsd38.ab.ca">
         Moodle Pty Ltd
     </author>
-
+    <icon src="resources/icon.png" />
     <gap:config-file platform="ios" parent="CFBundleShortVersionString">
         <string>2.5</string>
     </gap:config-file>
@@ -54,7 +54,7 @@
     <preference name="AndroidPersistentFileLocation"    value="Compatibility" />
     <preference name="iosPersistentFileLocation"        value="Compatibility" />
 
-    <icon src="resources/icon.png" />
+
     <icon src="resources/android/icon/icon-36-ldpi.png"       gap:platform="android"    gap:density="ldpi" />
     <icon src="resources/android/icon/icon-48-mdpi.png"       gap:platform="android"    gap:density="mdpi" />
     <icon src="resources/android/icon/icon-72-hdpi.png"       gap:platform="android"    gap:density="hdpi" />

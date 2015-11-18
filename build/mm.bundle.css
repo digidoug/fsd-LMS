@@ -7954,9 +7954,6 @@ img.mm-media-adapt-width {
   /* show the checkmark icon when its checked */
   visibility: visible; }
 
-#mm-settings-languagelabel {
-  color: #000; }
-
 .bar-side-menu {
   border-color: transparent;
   background-color: #f70;
@@ -7976,6 +7973,9 @@ img.mm-media-adapt-width {
 .has-side-menu-header {
   top: 80px; }
 
+#mm-settings-languagelabel {
+  color: #000; }
+
 input.mma-files-picker {
   position: absolute;
   top: 0;
@@ -7984,28 +7984,6 @@ input.mma-files-picker {
   min-height: 100%;
   opacity: 0;
   outline: none; }
-
-.mma-messages-date {
-  text-align: center;
-  margin-top: 10px; }
-
-.mma-messages-input-inset {
-  padding-top: 0;
-  padding-left: 0;
-  padding-bottom: 0; }
-
-.mma-messages-footer-note {
-  color: #444;
-  font-size: 14px;
-  text-align: center;
-  margin: 0;
-  width: 100%; }
-
-.button.mma-messages-clear-search {
-  top: 0px; }
-
-.mma-messages-discussion-container {
-  padding-bottom: 15px; }
 
 /* - User grades table (most of it extracted from MM1)
 -------------------------------------------------------------------------- */
@@ -8067,21 +8045,27 @@ input.mma-files-picker {
   .mma-grades-table .leveleven {
     background-color: #fff; }
 
-.mma-chat-notice {
+.mma-messages-date {
   text-align: center;
   margin-top: 10px; }
 
-.mma-chat-input-inset {
+.mma-messages-input-inset {
   padding-top: 0;
   padding-left: 0;
   padding-bottom: 0; }
 
-.mma-chat-footer-note {
+.mma-messages-footer-note {
   color: #444;
   font-size: 14px;
   text-align: center;
   margin: 0;
   width: 100%; }
+
+.button.mma-messages-clear-search {
+  top: 0px; }
+
+.mma-messages-discussion-container {
+  padding-bottom: 15px; }
 
 .mma-mod_choice-user {
   position: relative;
@@ -8099,6 +8083,22 @@ input.mma-files-picker {
 
 .mma-mod_choice-graph-horizontal {
   height: 50px; }
+
+.mma-chat-notice {
+  text-align: center;
+  margin-top: 10px; }
+
+.mma-chat-input-inset {
+  padding-top: 0;
+  padding-left: 0;
+  padding-bottom: 0; }
+
+.mma-chat-footer-note {
+  color: #444;
+  font-size: 14px;
+  text-align: center;
+  margin: 0;
+  width: 100%; }
 
 .mma-forum-discussion-link {
   text-decoration: none; }

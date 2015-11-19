@@ -5,10 +5,10 @@
         id        = "com.fsd38.fsdmoodlemobile"
         versionCode = "2006"
         version   = "2.5">
-    <name>Moodle Mobile</name>
+    <name>Foothills Moodle</name>
 
     <description>
-        Moodle Mobile official app
+        Foothills School Division Moodle App
     </description>
 
     <author href="http://www.fsd38.ab.ca" email="stevensd@fsd38.ab.ca">
